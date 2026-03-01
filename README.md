@@ -2,7 +2,7 @@
 
 **`Desenvolverdor FullStacks`**
 
-Me chamo Brenno Marques, tenho 19  anos e sou natural do Pernambuco . Concluí o ensino médio no souza brandao.  Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na estacio. Sou amante da tecnologia , onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Me chamo Brenno Marques, tenho 19  anos e sou natural do Pernambuco . Concluí o ensino médio no souza brandao.  Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na estacio. Sou amante da tecnologia .
 
 
 ### 🤖 Linguagens e Tecnologias
